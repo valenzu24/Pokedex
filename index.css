@@ -1,0 +1,21 @@
+.card {
+    background-color: rgb(246, 192, 138);
+    box-shadow: 3px 3px rgb(225, 107, 52);
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  button{
+   margin-left: 90px;
+  }
+
+  .card-text{
+    justify-content: center;
+    margin-left: 15px;
+  }
